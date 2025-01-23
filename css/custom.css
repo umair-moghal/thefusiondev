@@ -1,0 +1,28 @@
+.header__logo img {
+    max-width: 70px;
+}
+
+.blog-area {
+    display: none;
+}
+
+.feature-area .section-header .section-title-wrapper .shape-1 {
+    z-index: 0;
+}
+
+.clients-area-inner .shape-1 img {
+    opacity: 0;
+}
+
+.clients-area-inner .shape-1 {
+    background: var(--theme);
+}
+
+.clients-area-inner {
+    padding-left: 0;
+}
+
+
+section.cta-area {
+    margin-top: 100px;
+}
